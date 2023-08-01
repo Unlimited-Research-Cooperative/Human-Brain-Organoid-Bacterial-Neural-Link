@@ -18,7 +18,7 @@
 <br>
 <h1 align="center">Purpose</h1>
 
-<p align="center">We want to create bacteria colonies that will be able to play Pong, Go, DOOM, and to decode/encode data to/from human brain organoids</p>
+<p align="center">We want to create bacteria colonies attach themselves to human brain organoids, as a neural link to a silicon computer</p>
 
 <h1 align="center">Explanation</h1>
 
